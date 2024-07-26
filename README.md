@@ -1,5 +1,6 @@
 # go-smq-service
 this is a simple message broker server with pub sub features through http.
+Read the article [here](https://goblog.dev/articles/40)
 
 ## How to use
 Start the server
